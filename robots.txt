@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-lu9xd0.instituto2chance.org.br/sitemap.xml
